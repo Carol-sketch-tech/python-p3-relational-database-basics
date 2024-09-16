@@ -1,0 +1,11 @@
+Relational databse is structured to organize relations among stores items.
+
+RELATIONAL DATABASE STRUCTURE.
+relational database have unique features that allows us to establish relationshipd between multiple thables.
+Primary keys and foreign keys.
+     primary keys -> a columns in a table with an identifier(id) that uniquely identifies one specifi record or row, in a table
+     Foreign keys -> a column in one table that refers to a primry key in another table.
+in relational datbse, wever row has a number called Primary key.
+relationshipd between tables can be established by using a foreighn key column, like out manager ID columns that uses that primary key of another table to refer to an member if that table.
+the process of using a key in one table to identify a corresponding rown in another table is what SQL will do for us 
+programitcally when we give it the right instructions.
